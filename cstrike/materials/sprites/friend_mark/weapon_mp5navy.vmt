@@ -1,9 +1,0 @@
-"UnlitGeneric"
-{
-    "$basetexture" "sprites/friend_mark/weapon_mp5navy"
-    "$vertexalpha" "1"
-    "$vertexcolor" "1"
-    "$translucent" "1"
-    "$nomip" "1"
-    "$nolod" "1"
-}
