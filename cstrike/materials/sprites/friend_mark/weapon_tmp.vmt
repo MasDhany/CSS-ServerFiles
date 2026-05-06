@@ -1,0 +1,9 @@
+"UnlitGeneric"
+{
+    "$basetexture" "sprites/friend_mark/weapon_tmp"
+    "$vertexalpha" "1"
+    "$vertexcolor" "1"
+    "$translucent" "1"
+    "$nomip" "1"
+    "$nolod" "1"
+}
